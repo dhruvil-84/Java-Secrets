@@ -63,7 +63,7 @@
 <p>Let's make learning Java a community-driven adventure! 🌱✨</p>
 
 <h2>💬 Feedback & Suggestions</h2>
-<p>Have questions or ideas? Open an issue, or connect with me on <a href="https://www.linkedin.com/in/dhruvil-dhamecha-64127027b" target="_blank">LinkedIn</a> for more updates and discussions!</p>
+<p>Have questions or ideas? Open an issue, or connect with me on <a href="https://www.linkedin.com/in/dhruvil-dhamecha" target="_blank">LinkedIn</a> for more updates and discussions!</p>
 
 <h2>📝 License</h2>
 <p>This repository is open-source and licensed under the <a href="LICENSE">MIT License</a>.</p>
