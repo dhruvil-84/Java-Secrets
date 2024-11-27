@@ -43,7 +43,7 @@
 <h2>🛠️ How to Use This Repository</h2>
 <ol>
   <li><strong>Clone the Repository</strong>:
-    <pre><code>git clone https://github.com/dhruvil-84/JavaSecrets.git</code></pre>
+    <pre><code>git clone https://github.com/dhruvil-84/Java-Secrets.git</code></pre>
   </li>
   <li><strong>Browse by Level</strong>: Start from Beginner and work your way up to Advanced.</li>
   <li><strong>Run Programs</strong>: Use your favorite IDE (like IntelliJ IDEA, Eclipse, or VS Code) or the command line to run and experiment with the code.</li>
