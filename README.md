@@ -33,7 +33,7 @@
 
 <p>Each level is packed with programs and examples to make sure your learning journey is both fun and effective! 💡</p>
 
-<h2>🌟 Why JavaSecrets?</h2>
+<h2>🌟 Why Java-Secrets?</h2>
 <ul>
   <li><strong>Guided Learning</strong>: Programs aligned with chapters and topics from <em>The Complete Reference Java™ Ninth Edition</em> for structured understanding.</li>
   <li><strong>Comprehensive Examples</strong>: Clear, concise code snippets and full programs for practical insights.</li>
