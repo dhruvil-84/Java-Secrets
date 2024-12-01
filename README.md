@@ -54,7 +54,7 @@
 <p>All the programs and concepts are inspired by <em>The Complete Reference Java™ Ninth Edition by Herbert Schildt</em>. 📚 This ensures that you get reliable and comprehensive explanations alongside hands-on examples.</p>
 
 <h2>🤝 Contributions Welcome!</h2>
-<p>Have some cool programs or improvements in mind? Feel free to contribute and make <strong>JavaSecrets</strong> even better:</p>
+<p>Have some cool programs or improvements in mind? Feel free to contribute and make <strong>Java-Secrets</strong> even better:</p>
 <ul>
   <li>Fork this repository.</li>
   <li>Create a new branch and add your contributions.</li>
