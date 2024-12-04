@@ -40,7 +40,7 @@
   <li><strong>Best Practices</strong>: Tips and techniques for writing efficient and maintainable Java code.</li>
 </ul>
 
-<h2>🛠️ How to Use this Repository</h2>
+<h2>🛠️ How to Use this Repository?</h2>
 <ol>
   <li><strong>Clone the Repository</strong>:
     <pre><code>git clone https://github.com/dhruvil-84/Java-Secrets.git</code></pre>
