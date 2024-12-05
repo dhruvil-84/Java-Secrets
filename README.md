@@ -1,4 +1,4 @@
-<h1 align="center">Java-Secrets 🌐💻</h1>
+<h1 align="center">💻🌐 Java-Secrets 🌐💻</h1>
 
 <p align="center">
   Welcome to <strong>Java-Secrets</strong> — your treasure chest of Java programming knowledge! 🚀 Whether you’re just starting out or a seasoned developer diving into advanced topics, this repository is your go-to resource, inspired by <em>The Complete Reference Java™ Ninth Edition by Herbert Schildt</em>.
