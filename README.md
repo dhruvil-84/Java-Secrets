@@ -53,7 +53,7 @@
 <h2>📘 Reference Textbook</h2>
 <p>All the programs and concepts are inspired by <em>The Complete Reference Java™ Ninth Edition by Herbert Schildt</em>. 📚 This ensures that you get reliable and comprehensive explanations alongside hands-on examples.</p>
 
-<h2>🤝 Contributions Welcome!</h2>
+<h2>🤝 Contributions are Welcome!</h2>
 <p>Have some cool programs or improvements in mind? Feel free to contribute and make <strong>Java-Secrets</strong> even better:</p>
 <ul>
   <li>Fork this repository.</li>
