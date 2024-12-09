@@ -69,4 +69,4 @@
 <p>This repository is open-source and licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 <hr>
-<p align="center">Happy coding and exploring Java’s secrets! 🌟🔥</p>
+<p align="center">🔥🌟 Happy coding and exploring Java’s secrets! 🌟🔥</p>
