@@ -10,23 +10,23 @@
 <ul>
   <li><strong>🔰 Beginner</strong>: 
     <ul>
-      <li>Core syntax and data types</li>
+      <li>Core syntax and data types.</li>
       <li>Control statements (if-else, loops, etc.)</li>
-      <li>Basic algorithms and first programs</li>
+      <li>Basic algorithms and first programs.</li>
     </ul>
   </li>
   <li><strong>🚀 Intermediate</strong>: 
     <ul>
-      <li>Object-Oriented Programming (OOP) principles</li>
-      <li>Exception handling and debugging</li>
-      <li>Java Collections Framework and utility classes</li>
+      <li>Object-Oriented Programming (OOP) principles.</li>
+      <li>Exception handling and debugging.</li>
+      <li>Java Collections Framework and utility classes.</li>
     </ul>
   </li>
   <li><strong>💡 Advanced</strong>:
     <ul>
-      <li>Multithreading and concurrency</li>
-      <li>Generics, annotations, and lambda expressions</li>
-      <li>File I/O, networking, and advanced design patterns</li>
+      <li>Multithreading and concurrency.</li>
+      <li>Generics, annotations, and lambda expressions.</li>
+      <li>File I/O, networking, and advanced design patterns.</li>
     </ul>
   </li>
 </ul>
