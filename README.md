@@ -11,7 +11,7 @@
   <li><strong>🔰 Beginner</strong>: 
     <ul>
       <li>Core syntax and data types.</li>
-      <li>Control statements (if-else, loops, etc.)</li>
+      <li>Control statements (if-else, loops, etc.).</li>
       <li>Basic algorithms and first programs.</li>
     </ul>
   </li>
