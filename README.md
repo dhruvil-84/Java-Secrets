@@ -60,7 +60,7 @@
   <li>Create a new branch and add your contributions.</li>
   <li>Open a pull request with a description of your changes.</li>
 </ul>
-<p>Let's make learning Java a community-driven adventure! 🌱</p>
+<p>Let's make learning Java a community-driven adventure! ✨🌱</p>
 
 <h2>💬 Feedback & Suggestions</h2>
 <p>Have questions or ideas? Open an issue, or connect with me on <a href="https://www.linkedin.com/in/dhruvil-dhamecha" target="_blank">LinkedIn</a> for more updates and discussions!</p>
