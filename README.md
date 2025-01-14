@@ -1,7 +1,7 @@
-<h1 align="center">JavaSecrets 🌐💻</h1>
+<h1 align="center">💻🌐 Java-Secrets 🌐💻</h1>
 
 <p align="center">
-  Welcome to <strong>JavaSecrets</strong> — your treasure chest of Java programming knowledge! 🚀 Whether you’re just starting out or a seasoned developer diving into advanced topics, this repository is your go-to resource, inspired by <em>The Complete Reference Java™ Ninth Edition by Herbert Schildt</em>.
+  Welcome to <strong>Java-Secrets</strong> — your treasure chest of Java programming knowledge! 🚀 Whether you’re just starting out or a seasoned developer diving into advanced topics, this repository is your go-to resource, inspired by <em>The Complete Reference Java™ Ninth Edition by Herbert Schildt</em>.
 </p>
 
 <h2>📂 Repository Structure</h2>
@@ -33,7 +33,7 @@
 
 <p>Each level is packed with programs and examples to make sure your learning journey is both fun and effective! 💡</p>
 
-<h2>🌟 Why JavaSecrets?</h2>
+<h2>🌟 Why Java-Secrets?</h2>
 <ul>
   <li><strong>Guided Learning</strong>: Programs aligned with chapters and topics from <em>The Complete Reference Java™ Ninth Edition</em> for structured understanding.</li>
   <li><strong>Comprehensive Examples</strong>: Clear, concise code snippets and full programs for practical insights.</li>
@@ -43,7 +43,7 @@
 <h2>🛠️ How to Use This Repository</h2>
 <ol>
   <li><strong>Clone the Repository</strong>:
-    <pre><code>git clone https://github.com/dhruvil-84/JavaSecrets.git</code></pre>
+    <pre><code>git clone https://github.com/dhruvil-84/Java-Secrets.git</code></pre>
   </li>
   <li><strong>Browse by Level</strong>: Start from Beginner and work your way up to Advanced.</li>
   <li><strong>Run Programs</strong>: Use your favorite IDE (like IntelliJ IDEA, Eclipse, or VS Code) or the command line to run and experiment with the code.</li>
@@ -54,13 +54,13 @@
 <p>All the programs and concepts are inspired by <em>The Complete Reference Java™ Ninth Edition by Herbert Schildt</em>. 📚 This ensures that you get reliable and comprehensive explanations alongside hands-on examples.</p>
 
 <h2>🤝 Contributions Welcome!</h2>
-<p>Have some cool programs or improvements in mind? Feel free to contribute and make <strong>JavaSecrets</strong> even better:</p>
+<p>Have some cool programs or improvements in mind? Feel free to contribute and make <strong>Java-Secrets</strong> even better:</p>
 <ul>
   <li>Fork this repository.</li>
   <li>Create a new branch and add your contributions.</li>
   <li>Open a pull request with a description of your changes.</li>
 </ul>
-<p>Let's make learning Java a community-driven adventure! 🌱✨</p>
+<p>Let's make learning Java a community-driven adventure! ✨🌱</p>
 
 <h2>💬 Feedback & Suggestions</h2>
 <p>Have questions or ideas? Open an issue, or connect with me on <a href="https://www.linkedin.com/in/dhruvil-dhamecha" target="_blank">LinkedIn</a> for more updates and discussions!</p>
