@@ -22,7 +22,7 @@
       <li>Java Collections Framework and utility classes</li>
     </ul>
   </li>
-  <li><strong>💡 Advanced</strong>:a
+  <li><strong>💡 Advanced</strong>:
     <ul>
       <li>Multithreading and concurrency</li>
       <li>Generics, annotations, and lambda expressions</li>
